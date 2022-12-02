@@ -1,4 +1,7 @@
+# David Hernandez
+Computer Science Student
 ### Hi there 👋
+- 🔭 I’m currently working on [Advent of Code 2022](https://adventofcode.com/)
 
 <!--
 **dnaherna/dnaherna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
